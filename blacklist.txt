@@ -1,13 +1,13 @@
-#------------------------------------[INFO]--------------------------------------
+#-------------------------------------[INFO]---------------------------------------
 # Title: Knusi's PiHole Blacklist
 # License: https://unlicense.org
-
-nav.smartscreen.microsoft.com
-devtools.azureedge.net
-d1azc1qln24ryf.cloudfront.net
-boot.pbstck.com
-suggest.wettercomassets.com
-cs4.wettercomassets.com
-dnacdn.net
-cs3.wettercomassets.com
-fonts.gstatic.com
+#------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 nav.smartscreen.microsoft.com
+0.0.0.0 devtools.azureedge.net
+0.0.0.0 d1azc1qln24ryf.cloudfront.net
+0.0.0.0 boot.pbstck.com
+0.0.0.0 suggest.wettercomassets.com
+0.0.0.0 cs4.wettercomassets.com
+0.0.0.0 dnacdn.net
+0.0.0.0 cs3.wettercomassets.com
+0.0.0.0 fonts.gstatic.com
