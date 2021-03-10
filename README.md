@@ -12,5 +12,4 @@ How to:
 -write the link below in the 'address' field
 -klick add
 
-
-https://github.com/knusi/myPiholeBlacklist/blob/main/blacklist.txt
+https://raw.githubusercontent.com/knusi/myPiholeBlacklist/main/blacklist.txt
