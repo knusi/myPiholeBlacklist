@@ -11,3 +11,4 @@
 0.0.0.0 dnacdn.net
 0.0.0.0 cs3.wettercomassets.com
 0.0.0.0 fonts.gstatic.com
+0.0.0.0 livejasmin.com
