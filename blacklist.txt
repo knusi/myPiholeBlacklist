@@ -13,3 +13,4 @@
 0.0.0.0 fonts.gstatic.com
 0.0.0.0 livejasmin.com
 0.0.0.0 freenet.de
+0.0.0.0 deinfreizeitmagazin.de
