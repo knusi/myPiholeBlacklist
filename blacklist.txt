@@ -15,3 +15,4 @@
 0.0.0.0 freenet.de
 0.0.0.0 deinfreizeitmagazin.de
 0.0.0.0 generalebad.xyz
+0.0.0.0 topfutureprofit.life
